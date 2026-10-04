@@ -7,11 +7,11 @@ Since it runs completely locally using **Ollama** and **Qdrant**, no data is eve
 ---
 
 ##  Features
-* ** PDF Ingestion:** Upload any PDF document to automatically extract, chunk, and index its text.
-* ** 100% Local AI:** Powered by Ollama for both chat generation and vector embeddings.
-* ** Semantic Search:** Uses Qdrant Vector Database for lightning-fast similarity search.
-* ** Clean Architecture:** Highly decoupled layers (API, Application, Infrastructure, Domain) for easy scaling and swapping of technologies.
-* ** JWT Authentication:** Built-in JWT bearer token support (configurable).
+*  PDF Ingestion: Upload any PDF document to automatically extract, chunk, and index its text.
+*  100% Local AI: Powered by Ollama for both chat generation and vector embeddings.
+*  Semantic Search: Uses Qdrant Vector Database for lightning-fast similarity search.
+*  Clean Architecture: Highly decoupled layers (API, Application, Infrastructure, Domain) for easy scaling and swapping of technologies.
+*  JWT Authentication: Built-in JWT bearer token support (configurable).
 
 ---
 
